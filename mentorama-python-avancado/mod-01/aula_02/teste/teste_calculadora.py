@@ -1,5 +1,6 @@
 import pytest
 
+# Arquivo no qual as funções serão testadas:
 from calculadora import soma, subtracao, multiplicacao, divisao
 
 #Criando uma classe para realização do teste:
