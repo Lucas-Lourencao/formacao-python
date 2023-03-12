@@ -1,1 +1,13 @@
 Aula 01: Aula de introdutória da seção;
+
+Módulo 01 - Python Profissional
+
+Aula 01: Módulos, Pacotes e Importações em Python;
+
+Aula 02: O que é um desenvolvedor Full-Stack?;
+
+Aula 03: Principais IDEs;
+
+Aula 04: TDDs e Testes Unitários;
+
+Aula 05: Preparações para entrevistas;
