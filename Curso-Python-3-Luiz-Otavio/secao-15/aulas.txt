@@ -1,0 +1,17 @@
+Aula 01: Criando o projeto no VS Code;
+
+Aula 02: GitHub da seção;
+
+Aula 03: Asserções (Assertions);
+
+Aula 04: Doctests;
+
+Aula 05: Unittest #1;
+
+Aula 06: Unittest #2 - com TDD;
+
+Aula 07: Unittest #3 - com TDD;
+
+Aula 08: Unittest #4 - Executando e organizando todos os testes;
+
+Aula 09: Type hints e MyPy;
