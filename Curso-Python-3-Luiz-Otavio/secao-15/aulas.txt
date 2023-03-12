@@ -10,7 +10,7 @@ Aula 04: Doctests;
 
 Aula 05: Unittest #1;
 
-Aula 06: Unittest #2 - com TDD;
+Aula 06: Unittest #2 - com TDD (Teste Driven Development);
 
 Aula 07: Unittest #3 - com TDD;
 
