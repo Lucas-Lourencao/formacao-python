@@ -1,17 +1,19 @@
 Instalando e trabalhando com Ambiente Virtual no VSCode:
 
-1) Criar a pasta do projeto;
-2) Dentro da pasta do projeto abrir o prompt e dar o comando:
+1. Criar a pasta do projeto;
+2. Dentro da pasta do projeto abrir o prompt e dar o comando:
 >>> python -m venv venv
 
-3) Ativar o ambiente virtual, prompt cmd:
+3. Ativar o ambiente virtual, prompt cmd:
 venv/Scripts/activate.bat
 
-4) Selecionar o caminho do ambiente virtual, o que automaticamente criará a pasta .vscode;
+4. Selecionar o caminho do ambiente virtual, o que automaticamente criará a pasta .vscode;
 
-5) configurar o settings.json para o trabalho;
+5. configurar o settings.json para o trabalho;
 
-6) Para desativar o venv, prompt de cmd:
+6. Para desativar o venv, prompt de cmd:
 deactivate
 
-Tutorial: https://oandersonbm.medium.com/usando-python-no-vs-code-com-ambiente-virtual-venv-ecef7959b652
+Tutorial: 
+
+https://oandersonbm.medium.com/usando-python-no-vs-code-com-ambiente-virtual-venv-ecef7959b652
