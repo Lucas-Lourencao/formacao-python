@@ -5,7 +5,7 @@ Instalando e trabalhando com Ambiente Virtual no VSCode:
 >>> python -m venv venv
 
 3. Ativar o ambiente virtual, prompt cmd:
-venv/Scripts/activate.bat
+venv\Scripts\activate.bat
 
 4. Selecionar o caminho do ambiente virtual, o que automaticamente criará a pasta .vscode;
 
