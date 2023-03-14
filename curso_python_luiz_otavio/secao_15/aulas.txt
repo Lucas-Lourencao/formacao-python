@@ -1,0 +1,23 @@
+Seção 15: Testes e introdução ao TDD no python - unittest;
+
+Aula 01: Criando o projeto no VS Code;
+    - Forma "primitiva" de execução de testes;
+    - Ver documentação Doctest Python;
+    - Ver documentação Unittest Python;
+
+Aula 02: GitHub da seção;
+    - Link de acesso ao conteúdo da seção no GitHub;
+
+Aula 03: Asserções (Assertions);
+
+Aula 04: Doctests;
+
+Aula 05: Unittest #1;
+
+Aula 06: Unittest #2 - com TDD (Teste Driven Development);
+
+Aula 07: Unittest #3 - com TDD;
+
+Aula 08: Unittest #4 - Executando e organizando todos os testes;
+
+Aula 09: Type hints e MyPy;

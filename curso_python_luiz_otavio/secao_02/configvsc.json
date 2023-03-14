@@ -1,0 +1,64 @@
+{
+    //Abre sempre o arquivo em branco para que o usuario defina o formato de arquivo que vai trabalhar
+    "workbench.startupEditor": "newUntitledFile",
+
+    //Zoom da janela do VS Code
+    "window.zoomLevel": 1,
+
+    //Extensão que define o tema e o padrão de cores do VSC
+    "workbench.colorTheme": "Dracula",
+
+    //Extensão para identificar as extensões dos arquivos criados
+    "workbench.iconTheme": "material-icon-theme",
+
+    //Extensão para definir o tamanho da fonte das letras dos códigos
+    "editor.fontSize": 14,
+
+    //Extensão para destacar apenas a linha de código em que vc estiver trabalhando
+    "editor.renderLineHighlight": "gutter",
+
+    //Extensão que define o tamanho da fonte do TERMINAL/PROMPT
+    "terminal.integrated.fontSize": 12,
+
+    //Extensão que após o Ctrl + S salva o arquivo que está sendo modificado
+    "editor.formatOnSave": true,
+
+    //Extensão para ajustar o código com as identações necessárias
+    "editor.autoIndent": "full",
+    
+    //Não compacta diretórios com apenas 01 diretório interno;
+    "explorer.compactFolders": false,
+
+    // HTML - Configurações
+    // Formatando o HTML com a extensão prettier:
+    "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    //PYTHON - Configurações
+    "[python]": {
+    "editor.formatOnType": true,
+    },
+
+    //CODE-RUNNER - Configurações
+    //Terminal com code-runner
+    "code-runner.runInTerminal":true,
+    //Limpar terminal após cmd via prompt
+    "code-runner.executorMap": {
+    "python": "cls ; python -u",
+    },
+    //Configuração que torna default a execução de todo o arquivo python e não apenas um trecho de código selecionado
+    "code-runner.ignoreSelection": true,
+    //Extensão para que o Live Server não fique mostrando notificação toda vez que ele é ativado
+    "liveServer.settings.donotShowInfoMsg": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.wordWrap": "on",
+    "files.autoSave": "onFocusChange",
+    "explorer.confirmDragAndDrop": false,
+
+    //AMBIENTE VIRTUAL - Extensão par deixar o python como padrão para utilização de ambientes virtuais
+    "python.defaultInterpreterPath": "python", 
+
+
+    "git.openRepositoryInParentFolders": "never",
+  }
